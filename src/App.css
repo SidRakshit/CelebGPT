@@ -1,0 +1,42 @@
+h1 {
+  color: #FFFFFF;
+  font-family: system-ui;
+  margin-left: 20px;
+}
+body {
+  background-color: #222629;
+}
+label {
+  color: #86C232;
+  font-family: system-ui;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+button {
+  background-color: #86C232;
+  border-color: #86C232;
+  color: #FFFFFF;
+  font-family: system-ui;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 20px;
+  width: 140px;
+}
+textarea {
+  color: #222629;
+  font-family: system-ui;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 20px;
+  width: 300px;
+  height: 200px;
+}
+#response {
+  color: #FFFFFF;
+  font-family: system-ui;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
